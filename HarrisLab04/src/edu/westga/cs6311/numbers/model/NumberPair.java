@@ -11,6 +11,7 @@ package edu.westga.cs6311.numbers.model;
 public class NumberPair {
 	private int firstNum;
 	private int secondNum;
+	private int thirdNum;
   
 	/**
 	 * Initializes the instance variables for the NumberPair object.
